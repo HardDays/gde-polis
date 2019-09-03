@@ -1,0 +1,8 @@
+{
+    "/api/*": {
+      "target": "https://widget.agentapp.ru",
+      "secure": false,
+      "logLevel": "debug",
+      "changeOrigin": true
+    }
+  }
